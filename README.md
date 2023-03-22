@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estou buscando minha primeira experiência na área de programação;<br>🌱 Atualmente estou estudando JavaScript;<br>💬 Contate-me no email: caueghelfi03@gmail.com;<br>😄 Pronouns: ele/dele;
+🔭 Estou buscando minha primeira experiência na área de programação;<br>🌱 Atualmente estou estudando JavaScript e MySQL;<br>💬 Contate-me no email: caueghelfi03@gmail.com;<br>😄 Pronouns: ele/dele;
 
 
 ## 🌐 Redes sociais:
